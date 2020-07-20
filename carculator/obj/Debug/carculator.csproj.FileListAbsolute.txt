@@ -1,0 +1,9 @@
+C:\Users\tig02\source\repos\carculator\carculator\bin\Debug\carculator.exe.config
+C:\Users\tig02\source\repos\carculator\carculator\bin\Debug\carculator.exe
+C:\Users\tig02\source\repos\carculator\carculator\bin\Debug\carculator.pdb
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.csprojAssemblyReference.cache
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.Form1.resources
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.Properties.Resources.resources
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.csproj.GenerateResource.cache
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.exe
+C:\Users\tig02\source\repos\carculator\carculator\obj\Debug\carculator.pdb
